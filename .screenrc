@@ -1,0 +1,7 @@
+startup_message off
+
+escape ^Oo
+
+# unbind "lock screen" key
+bind x
+bind ^x
